@@ -3,6 +3,7 @@ Este es un repositorio para el trabajo personal para el curso de computación gr
 **ESTRUCTURA**:
 
 En general la estructura del repositorio se verá así:
+```plaintext
 visualcomputing2026-I-BVRE/
 ├── semana_01_1_construyendo_mundo_3d/
 │   ├── README.md
@@ -12,6 +13,7 @@ visualcomputing2026-I-BVRE/
 ├── semana_02_1_espacios_proyectivos_matrices_proyeccion/
 │
 │
+```
 
 **COMMITS**:
 
